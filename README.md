@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jonelmarco
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning .NET
